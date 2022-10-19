@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f22a03e8.css",
+    "main.js": "/static/js/main.acf1f79c.js",
+    "static/media/confLogo.png": "/static/media/confLogo.d256edd13769d04ac6d8.png",
+    "static/media/Cairo-Regular.ttf": "/static/media/Cairo-Regular.660e5480a8e65380b3cf.ttf",
+    "static/media/Tajawal.ttf": "/static/media/Tajawal.2d7b4a593a2e357e893e.ttf",
+    "static/media/Cairo-Regular.woff": "/static/media/Cairo-Regular.6e9535a6429bc3d7c534.woff",
+    "static/media/Cairo-Regular.eot": "/static/media/Cairo-Regular.6ae2e5d4a204eaa1fde5.eot",
+    "static/media/Tajawal.woff": "/static/media/Tajawal.aca3ae0a36e50063d588.woff",
+    "static/media/Tajawal.eot": "/static/media/Tajawal.819e7358f7df065171d7.eot",
+    "static/media/wpuLogo.svg": "/static/media/wpuLogo.de65340428207750b61beee180d1899e.svg",
+    "index.html": "/index.html",
+    "main.f22a03e8.css.map": "/static/css/main.f22a03e8.css.map",
+    "main.acf1f79c.js.map": "/static/js/main.acf1f79c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f22a03e8.css",
+    "static/js/main.acf1f79c.js"
+  ]
+}
