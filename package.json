@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "serve server.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Abdulkarim Alhalabi",
@@ -22,8 +22,5 @@
     "serve-favicon": "^2.5.0",
     "socket.io": "^4.5.3",
     "xlsx": "^0.18.5"
-  },
-  "devDependencies": {
-
   }
 }
